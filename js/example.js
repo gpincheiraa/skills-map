@@ -5,11 +5,11 @@ chart.innerRadius(50)
     .segmentHeight(50)
     .range(['white', 'steelblue'])
     .radialLabels([
-        'Novice', 
-        'Advanced begin',
-        'Competent',
-        'Proficient',
-        'Expert'
+        'Novato', 
+        'Principiante',
+        'Competente',
+        'Proficiente',
+        'Experto'
     ])
     .segmentLabels([
         'Internet',
