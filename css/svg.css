@@ -5,8 +5,8 @@ svg {
 }
 
 path {
-	stroke: red;
-	stroke-width: 0.1px;
+	stroke:#fff;
+	stroke-width: 5px;
 }
 
 .labels {
